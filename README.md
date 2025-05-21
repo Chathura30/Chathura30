@@ -10,7 +10,7 @@ I'm a Computer Science student at the **University of Kingston**, specializing i
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="laft">
   <a href="https://linkedin.com/in/chathura-jayasanka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
