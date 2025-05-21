@@ -11,7 +11,8 @@ I'm a Computer Science student at the **University of Kingston**, specializing i
 ### 🌐 Connect with Me
 
 <p align="laft"> <a href="https://linkedin.com/in/chathura-jayasanka" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
----
+
+-----
 
 ### 🛠️ Languages & Tools
 
