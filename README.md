@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a Computer Science student at the **University of Kingston**, specializing in **Software Engineering**, with a passion for building innovative solutions using modern technologies. I have hands-on experience in both front-end and back-end development, working with **JavaScript**, **React**, **Node.js**, and **Express.js** to create impactful, user-focused applications. I enjoy turning complex problems into simple, efficient solutions and continuously seek opportunities to learn and grow as a developer.
+Full-stack software engineer with hands-on experience building enterprise grade web and mobile applications across React, Node.js, React Native, and MySQL. Completed a BSc in Software Engineering at Kingston University of London, with practical experience gained at Sri Lanka Port Authority  where I contributed to developing a Financial Management System serving one of Sri Lanka's largest government institutions. I've independently built and shipped production-quality projects spanning e-commerce mobile apps, campus management systems, and payroll platforms. I'm passionate about clean architecture, intuitive user experiences, and writing code that scales. Open to full-stack, frontend, and mobile engineering opportunities  locally and internationally.
 
 ---
 
