@@ -4,7 +4,7 @@
 
 ### About Me
 
-Full-stack software engineer with hands-on experience building enterprise grade web and mobile applications across React, Node.js, React Native, and MySQL. Completed a BSc in Software Engineering at Kingston University of London, with practical experience gained at Sri Lanka Port Authority  where I contributed to developing a Financial Management System serving one of Sri Lanka's largest government institutions. I've independently built and shipped production-quality projects spanning e-commerce mobile apps, campus management systems, and payroll platforms. I'm passionate about clean architecture, intuitive user experiences, and writing code that scales. Open to full-stack, frontend, and mobile engineering opportunities  locally and internationally.
+Full-stack software engineer with hands-on experience building enterprise grade web and mobile applications across React, Node.js, React Native, and MySQL. Completed a BSc in Software Engineering at Kingston University of London, with practical experience gained at Sri Lanka Port Authority  where I contributed to developing a Financial Management System serving one of Sri Lanka's largest government institutions. I've independently built and shipped production-quality projects spanning e-commerce mobile apps, campus management systems, and payroll platforms. I'm passionate about clean architecture, intuitive user experiences, and writing code that scales. Open to full-stack, frontend, backend and mobile engineering opportunities  locally and internationally.
 
 ---
 
